@@ -1,0 +1,63 @@
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\Vendor Ledger Report.exe.config
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\Vendor Ledger Report.exe
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\Vendor Ledger Report.pdb
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\Vendor Ledger Report.xml
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\bin\Release\stdole.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.Form1.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.frmReportViewer.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.Resources.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor L.9CC9A50F.Up2Date
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.exe
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.xml
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.pdb
+C:\Users\ASUS\source\repos\Vendor Ledger Report\Vendor Ledger Report\obj\Release\Vendor Ledger Report.exe.config
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\Vendor Ledger Report.exe.config
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\Vendor Ledger Report.exe
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\Vendor Ledger Report.pdb
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\Vendor Ledger Report.xml
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\bin\Release\stdole.dll
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.Form1.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.frmReportViewer.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor_Ledger_Report.Resources.resources
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor L.9CC9A50F.Up2Date
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.exe
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.xml
+C:\Users\ASUS\source\repos\Vendor Ledger Report_FInal\Vendor Ledger Report\obj\Release\Vendor Ledger Report.pdb

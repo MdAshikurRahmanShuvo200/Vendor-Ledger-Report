@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vendor Ledger Report", "Vendor Ledger Report\Vendor Ledger Report.vbproj", "{B979161F-AA4F-4FFA-8A19-A326500F91AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B979161F-AA4F-4FFA-8A19-A326500F91AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B979161F-AA4F-4FFA-8A19-A326500F91AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B979161F-AA4F-4FFA-8A19-A326500F91AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B979161F-AA4F-4FFA-8A19-A326500F91AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6322B86-504F-408C-9A19-FC0F0AC929F9}
+	EndGlobalSection
+EndGlobal
